@@ -1,0 +1,16 @@
+div.promo {
+  text-decoration: line-through;
+
+}
+
+#hotelName {
+  border-top: 5px solid red;
+  border-bottom: 5px solid red;
+
+}
+
+#specialRate {
+  font-size: 32px;
+  color: red;
+
+}
